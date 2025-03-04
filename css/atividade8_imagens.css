@@ -1,0 +1,224 @@
+main{
+    position: relative;
+    width: 100%;
+    height: 650px;
+    background: url(../Imagens/guitarra_fundo_body.jpg);
+    background-size: cover;
+}
+
+#fundo{
+    background-color: rgba(165, 42, 42, 0.495);
+    width: 90%;
+    margin-left: 70px;
+    height:1900px;
+}
+
+
+#limao{
+    background-image: url(../Imagens/guitarras_header.jpg);
+    background-position: center center;
+    padding: 20px;
+    width: 97%;
+    height: 130px;
+    margin-top: 30px;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+
+nav{
+    margin-left: 60%;
+    background-color: white;
+    padding: 10px;
+    width: 550px;
+    display: flex;
+    justify-content: space-around;
+}
+
+a{
+    text-decoration: none;
+    
+   
+}
+
+section{
+    position: relative;
+    width: 100%;
+    height: 500px;
+    background-color:white;
+    display: flex;
+    margin-top: 10px;
+}
+
+#caixa1{
+    position: relative;
+    width: 45%;
+    height:300px;
+    background-color:rosybrown;
+    margin-top: 30px;
+    margin-left: 45px;
+    
+}
+
+#caixa2{
+    position: relative;
+    width: 45%;
+    height:300px;
+    background-color: blueviolet;
+    margin-top: 30px ;
+    margin-left: 40px;
+}
+
+#caixa2 img{
+    width: 100%;
+    height: 300px;
+}
+
+#midori{
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    margin-top: 15px;
+}
+
+#caixa_container{
+    position: relative;
+    width: 96%;
+    height: 400px;
+    margin: 60px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+
+.caixinha{
+    position: relative;
+    width: 20%;
+    height:400px;
+    background-color:white;
+    margin-top: 50px;
+    border-radius: 10px;
+    text-align:center ;
+    margin: auto;
+}
+
+#paragrafo{
+    color: red;
+    font-weight: bold;
+}
+
+.caixinha img{
+    width: 100%;
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin: auto;
+    
+}
+
+#giovana{
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background-color: chocolate;
+    display: flex;
+    margin-top: 10px;
+}
+
+#caixa5{
+    position: relative;
+    width: 45%;
+    height:300px;
+    margin-top: 30px;
+    margin-left: 45px;
+}
+
+#caixa5 img{
+    width: 100%;
+    height:300px;
+    border-radius: 10px;
+}
+
+#caixa6{
+    position: relative;
+    width: 45%;
+    height:300px;
+    background-color:rosybrown;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+#section{    
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background-color:brown;
+    display: flex;
+    margin-top: 10px;
+}
+
+#caixa3{
+    position: relative;
+    width: 45%;
+    height:350px;   
+    margin: auto ;
+    background-color: white;
+    
+}
+
+#caixa4{
+    width: 50%;
+    background-color: white;
+    height:100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: darkblue;
+}
+
+#nome, #email{
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#pedido{
+    padding: 15px;
+    width: 40%;
+    height:100px;
+    border-radius: 10px;
+}
+
+#enviar{
+    padding: 15px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+
+footer{
+    background-color: black;
+    height: 150px;
+    width: 100%;
+    margin-top: 15px;
+    text-align: center;
+    color: white;
+
+
+}
+
+footer h1{
+    font-size: 20px;
+}
+
+footer img{
+    margin-right: 20px;
+}
+
+
